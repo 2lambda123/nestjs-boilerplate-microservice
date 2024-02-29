@@ -2,7 +2,7 @@ repo_name: 2lambda123/nestjs-boilerplate-microservice
 report_id: cc6e75e8d5c9a9bcdbfbf278fe06368a
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T07:56:55+00:00'
+timestamp: '2024-02-29T19:13:05+00:00'
 requested_by: 2lambda123
 provider: github
 branch: master
@@ -187,7 +187,7 @@ tools:
   last_updated_by: 0xb4lamx
   last_updated_on: 2019-08-30 17:18:25.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 3.0.0
   license: MIT
@@ -201,7 +201,7 @@ tools:
   last_updated_by: 0xb4lamx
   last_updated_on: 2023-07-21 15:06:20.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.3.3
   license: MIT
